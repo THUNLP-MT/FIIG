@@ -1,6 +1,6 @@
 This is the repo for "Filling the Image Information Gap for VQA: Prompting Large Language Models to Proactively Ask Questions" (EMNLP 2023 Findings) [paper](https://openreview.net/)
 
-![pipeline](./images/framework-cameraready.pdf )
+![pipeline](./images/framework-cameraready.png )
 
 # Installation
 
