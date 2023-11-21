@@ -11,11 +11,12 @@ coming soon
 # Bibtex
 If you find our projects helpful to your research, please consider citing:
 ```
-@inproceedings{wang2023filling,
-title={Filling the Image Information Gap for {VQA}: Prompting Large Language Models to Proactively Ask Questions},
-author={Wang, Ziyue and Chen, Chi and Li, Peng and Liu, Yang},
-booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-year={2023},
-url={https://arxiv.org/abs/2311.11598}
+@misc{wang2023filling,
+      title={Filling the Image Information Gap for VQA: Prompting Large Language Models to Proactively Ask Questions},
+      author={Ziyue Wang and Chi Chen and Peng Li and Yang Liu},
+      year={2023},
+      eprint={2311.11598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
